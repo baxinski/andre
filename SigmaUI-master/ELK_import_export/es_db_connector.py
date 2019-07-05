@@ -5,7 +5,7 @@
 # License text
 ################################################################################
 
-__author__ = 'Nikolay Trofimyuk'
+__author__ = 'baxinski'
 __version__ = '1.0'
 
 from elasticsearch import Elasticsearch
